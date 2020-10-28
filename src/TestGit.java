@@ -4,5 +4,8 @@ public class TestGit {
         System.out.println("Hello Git!!!Hello");
         System.out.println("Hello Git!!!Hello");
         System.out.println("Hello Git!!!Hello");
+        System.out.println("Hello Git!!!Hello");
+        System.out.println("Hello Git!!!Hello");
+        System.out.println("Hello Git!!!Hello");
     }
 }
